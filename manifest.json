@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Spacing Fixer",
+  "version": "0.1",
+  "description": "Fixes extra blank lines in text boxes.",
+  "permissions": ["scripting", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Fix Spacing"
+  }
+}
