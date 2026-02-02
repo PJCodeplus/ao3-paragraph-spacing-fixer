@@ -17,6 +17,8 @@ Use this after pasting text into AO3 and before publishing, if you notice large 
 4. Turn on **Developer mode**
 5. Click **Load unpacked**
 6. Select the unzipped folder
+7. Make sure the selected folder directly contains manifest.json.
+
 
 ## Notes
 - This extension targets standard editable text fields like AO3’s editor
